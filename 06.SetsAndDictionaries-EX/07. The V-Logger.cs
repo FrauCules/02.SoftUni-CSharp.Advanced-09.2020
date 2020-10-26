@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace _07._The_V_Logger
+namespace _07._The_V_Logger // Не е довършено !!!!!!!!!!!!!!!!!
 {
     class Program
     {
